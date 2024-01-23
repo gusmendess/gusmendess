@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo</h1>
-<h3 align="center">Engenheiro Civil apaixonado por análise de dados, business e inteligência artificial no mundo digital</h3>
+<h3 align="center">Engenheiro Civil formado na universidade de pernambuco apaixonado por análise de dados, business e inteligência artificial no mundo digital</h3>
 
-- 🔭 Atualmente estou trabalhando com Machine Learning, Python e SQL [VIZIO](https://viziobr.wixsite.com/vizio)
+- 🔭 Atualmente estou trabalhando com Machine Learning, Python e SQL
 
 - 🌱 Atualmente estou aprendendo **Tableau e Machine Learning**
 
