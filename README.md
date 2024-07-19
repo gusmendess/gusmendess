@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo</h1>
 <h3 align="center">Engenheiro Civil formado na universidade de pernambuco apaixonado por análise de dados, business e inteligência artificial no mundo digital</h3>
 
-- 🔭 Atualmente estou trabalhando com Machine Learning, Python e SQL
+- 🔭 Atualmente estou trabalhando com Machine Learning, Python e Visão Computacional na PickCells
 
-- 🌱 Atualmente estou aprendendo **Tableau e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Deep Learning**
 
-- 📚 Atualmente estou fazendo graduação em **Ciência de Dados**
+- 📚 Atualmente estou fazendo Pós Graduação em **Ciência de Dados**
 
-- 💬 Me pergunte sobre **SQL, Python, Power BI, Excel e Metodologias Ágeis**
+- 💬 Me pergunte sobre **SQL, Python, Power BI, Visão Computacional**
 
 - 📫 Você me acha aqui: **gusmendesss@gmail.com**
 
