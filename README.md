@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo</h1>
-<h3 align="center">Engenheiro Civil formado na universidade de pernambuco apaixonado por análise de dados, business e inteligência artificial no mundo digital</h3>
+<h3 align="center">Ciência de Dados, I.A e Visão Computacional</h3>
 
 - 🔭 Atualmente estou trabalhando com Machine Learning, Python e Visão Computacional na PickCells
 
