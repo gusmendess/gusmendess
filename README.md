@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com Machine Learning, SQL e Graphs Databases na Aca.so
 
-- 🌱 Atualmente estou aprendendo **Deep Learning**
+- 🌱 Atualmente estou aprendendo **Engenharia de Dados, Graphs Databases, Graphs Neural Networks, Sistemas de Recomendações**
 
 - 📚 Atualmente estou fazendo Pós Graduação em **Ciência de Dados**
 
