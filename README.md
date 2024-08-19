@@ -24,10 +24,10 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=marynepatricia&theme=react&hide_border=false"/>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=gusmendess&theme=react&hide_border=false"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marynepatricia&layout=compact&theme=react&count_private=true"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmendess&layout=compact&theme=react&count_private=true"/>
       </td>
     </tr>
   </table>
