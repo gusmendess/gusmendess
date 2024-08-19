@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo</h1>
 <h3 align="center">Ciência de Dados, I.A e Visão Computacional</h3>
 
-- 🔭 Atualmente estou trabalhando com Machine Learning, Python e Visão Computacional na PickCells
+- 🔭 Atualmente estou trabalhando com Machine Learning, SQL e Graphs Databases na Aca.so
 
 - 🌱 Atualmente estou aprendendo **Deep Learning**
 
 - 📚 Atualmente estou fazendo Pós Graduação em **Ciência de Dados**
 
-- 💬 Me pergunte sobre **SQL, Python, Power BI, Visão Computacional**
+- 💬 Me pergunte sobre **SQL, Python, Power BI, Visão Computacional, Deep Learning**
 
 - 📫 Você me acha aqui: **gusmendesss@gmail.com**
 
