@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Gustavo</h1>
+<h1 align="center">Hey, I'm Gustavo</h1>
 <h3 align="center">Data Science, Machine Learning, LLM and Computer Vision</h3>
 
 - 🔭 I’m currently working with Machine Learning, LLM's and Graph Neural Networks at Acaso.
