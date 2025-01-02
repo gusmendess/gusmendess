@@ -51,9 +51,6 @@
       <td>
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=gusmendess&theme=react&hide_border=false"/>
       </td>
-      <td>
-        <img height="170px" src="[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
-      </td>
     </tr>
   </table>
 </div>
