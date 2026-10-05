@@ -34,14 +34,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
-# My Status
-<div>
-  <table style="margin: 0 auto;" align="center">
-    <tr>
-      <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=gusmendess&theme=react&hide_border=false"/>
-      </td>
-    </tr>
-  </table>
-</div>
