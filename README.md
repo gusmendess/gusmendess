@@ -1,20 +1,11 @@
 <h1 align="center">Hey, I'm Gustavo</h1>
 <h3 align="center">Data Science, Machine Learning, LLM and Computer Vision</h3>
 
-- 🔭 I’m currently working with Machine Learning, LLM's and Graph Neural Networks at Acaso.
-
-- 🌱 I’m currently learning **Data Engineering, Graph Neural Networks, and Large Language Models**.
-
-- 📚 I’m pursuing a Postgraduate degree in **Data Science**.
+- 🔭 I’m currently working with Machine Learning, LLM's and Graph Neural Networks.
 
 - 💬 Ask me about **Python, Computer Vision and Deep Learning**.
 
 - 📫 You can reach me at: **gusmendesss@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gusmendess/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gusmendess/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
